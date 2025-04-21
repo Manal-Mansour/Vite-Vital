@@ -28,7 +28,8 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the Vite and React logos to learn more how are things after
+        uploading in hub
       </p>
     </>
   );
